@@ -1,0 +1,1 @@
+# The automatic tests are currently disabled directly in the package. It is encouraged to use the Replit.sh repo (https://github.com/pieromqwert/replitsh) to test the modules, as it was the basis for this library and uses all of the modules in this library.
